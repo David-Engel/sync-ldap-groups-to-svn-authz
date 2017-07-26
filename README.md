@@ -9,3 +9,5 @@ Obviously, thanks to Jeremy Whitlock for his Python implementation.
 # Usage
 
 All settings are defined in the associated config file and are hopefully self explanatory.
+
+I set up a Scheduled Task to run this every two hours and it's been working great.
